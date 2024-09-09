@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoEnhancement", "VideoEnhancement\VideoEnhancement.csproj", "{127148F9-B84C-4B2C-88BA-16987047C1D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127148F9-B84C-4B2C-88BA-16987047C1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127148F9-B84C-4B2C-88BA-16987047C1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127148F9-B84C-4B2C-88BA-16987047C1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127148F9-B84C-4B2C-88BA-16987047C1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E0428A-16BC-4FB6-BA53-44E6840ADFF4}
+	EndGlobalSection
+EndGlobal
